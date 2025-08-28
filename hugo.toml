@@ -1,0 +1,7 @@
+baseURL = "https://okkake-cal.github.io/"
+languageCode = "ja"
+title = "おっかけカレンダー"
+theme = "PaperMod"
+
+[params]
+  homeInfoParams = { Title = "おっかけカレンダー", Content = "テスト中" }
