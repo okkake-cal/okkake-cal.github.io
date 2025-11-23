@@ -1,0 +1,11 @@
+baseURL = "https://okkake-cal.github.io/"
+languageCode = "ja"
+title = "My Favorite Database"
+theme = "PaperMod"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
