@@ -7,7 +7,7 @@ hidemeta: true
 ## 今後のスケジュール
 
 <!-- ここにGoogleカレンダーの埋め込みコードを貼り付ける -->
-<iframe src="https://calendar.google.com/calendar/embed?src=t940it39f8k7l4qu1dfj02k2k8%40group.calendar.google.com&ctz=Asia%2FTokyo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FTokyo&showPrint=0&src=ZmgzMW84OHE4bjAzdnQ1Mzhib2E4ZGJ0dGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=dDk0MGl0MzlmOGs3bDRxdTFkZmowMmsyazhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%234285f4&color=%23f09300" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 ## データベース（準備中）
